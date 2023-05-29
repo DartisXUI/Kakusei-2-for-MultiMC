@@ -3,7 +3,7 @@
 DOWNLOADS:
 
 - Modpack Download: https://github.com/DartisXUI/Kakusei-2-for-MultiMC/blob/0f15a7b04921f7b63a0a26a6f78164a95e482a6c/%5BDartis-Craft%5D%20Kakusei%20v2.0.zip
-- Questbook Download: [https://github.com/DartisXUI/Kakusei-2-for-MultiMC/blob/0f15a7b04921f7b63a0a26a6f78164a95e482a6c/%5BDartis-Craft%5D%20Kakusei%20%5BQuestbook%5D.docx](https://docs.google.com/document/d/1kG0kBu51vbRV1jL6dQi3rOx3RsbCVgwzF_zxUj3e3zg/edit?usp=share_link)
+- Questbook Download: https://docs.google.com/document/d/1kG0kBu51vbRV1jL6dQi3rOx3RsbCVgwzF_zxUj3e3zg/edit?usp=share_link
 - Launcher Modpack is Designed for: https://multimc.org/
 
 MODPACK NOTES:
